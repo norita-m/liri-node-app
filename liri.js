@@ -108,6 +108,10 @@ function movie() {
         }
     });
 
+}
+
+//do-what-it-says function 
+//function command() {
 
 
 }
